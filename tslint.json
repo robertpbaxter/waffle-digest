@@ -1,5 +1,6 @@
 {
     "extends": "tslint:recommended",
+    "defaultSeverity": "warn",
     "rules": {
         "max-classes-per-file": false,
         "max-line-length": [
